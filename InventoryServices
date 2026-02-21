@@ -10,7 +10,7 @@ namespace InventoryApp.Services
             products = new string[2, 3];
 
             // Product Names
-            products[0, 0] = "";
+            products[0, 0] = "Orange";
             products[0, 1] = "Milk";
             products[0, 2] = "Bread";
 
